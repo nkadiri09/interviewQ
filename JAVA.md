@@ -39,3 +39,22 @@
     19.pass by reference
 
     20.Attributes for good javadoc
+    
+## Microservice
+
+how will you check performance of your microservice.
+load testing in Microservices
+what do you feel dificult in Microservices
+best practices of tracing/debugging a microservice.
+service to service security vs ui to service security
+characterstics of Restful webservices
+hibernate validator
+@Autowired, @Resource, and @inject
+Stream vs Collection API
+clouser in Lambda
+how to avoid null pointr in java 8 <Optional> class
+Security group vs Nacl
+RDBMS vs NOSQL
+Innerjoin vs OURTER join
+how to handle result set giving multiple results,
+    
