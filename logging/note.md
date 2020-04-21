@@ -7,3 +7,4 @@
     and needs multiple service requests to load. Each service request hops over multiple microservices to 
     process the request. This poses a challenge in analyzing logs when multiple clients concurrently access 
     the application.
+### https://dzone.com/articles/mdc-better-way-of-logging-1
