@@ -8,3 +8,7 @@
     process the request. This poses a challenge in analyzing logs when multiple clients concurrently access 
     the application.
 ### https://dzone.com/articles/mdc-better-way-of-logging-1
+
+
+## Microservices logging best practices
+### https://www.scalyr.com/blog/microservices-logging-best-practices
