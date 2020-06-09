@@ -17,3 +17,7 @@
         Class< A extends B & Runnable> 
         If we need to work with 2 classes or interfaces they ahv eto come up in order. with &.
         and we can extend only one class as a bounded type
+
+    We can take any type of parameters based on our requirement.
+    
+###  Generics wildcard characters(?) 
